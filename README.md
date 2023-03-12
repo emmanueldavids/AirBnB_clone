@@ -8,7 +8,7 @@ It’s exactly the same as a shell but limited to a specific use-case.
 
 ## How To Start it
 1. Create a Readme file that contains the project Documentation.
-2. You initiallize your git repository git init https://github.com/emmanueldavids/AirBnB_clone.git, then cd into repository.
+2. You initiallize your git repository git init https://github.com/emmanueldavids/AirBnB_clone.git, then cd into your repository.
 
 
 ## How To Use It
