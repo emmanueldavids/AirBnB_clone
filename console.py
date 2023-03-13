@@ -19,5 +19,6 @@ class Shell(cmd.Cmd):
         'Type quit to exit'
         return True
 
+
 if __name__ == '__main__':
     Shell().cmdloop()
