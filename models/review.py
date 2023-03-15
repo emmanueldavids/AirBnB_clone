@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """
 This module contains the Review Class that inherits from Basemodel

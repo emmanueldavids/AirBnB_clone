@@ -1,5 +1,3 @@
-
-
 #!/usr/bin/env python3
 """file_storage.py
 This module contains a class FileStorage that serializes and deserializes
