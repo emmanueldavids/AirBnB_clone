@@ -5,6 +5,7 @@ This module contains the Place Class that inherits from Basemodel
 
 from models.base_model import BaseModel
 
+
 class Place:
     """This is the State class that define """
     city_id = ""
