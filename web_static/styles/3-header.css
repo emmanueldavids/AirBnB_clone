@@ -3,7 +3,7 @@ header {
     height: 70px;
     width: 100%;
     border-bottom: 1px #CCCCCC;
-    
+
 }
 
 header .logo {
@@ -11,4 +11,3 @@ header .logo {
     height: 100%;
     margin-top: 20px;
 }
-
